@@ -37,11 +37,5 @@ Estoy desarrollando un modelo híbrido que combina **RNNs** (Redes Neuronales Re
 
 ---
 
-## 📈 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=GuadaGonSa&show_icons=true&theme=radial)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GuadaGonSa&layout=compact&theme=radial)
-
----
-
 📫 **¿Hablamos?**
-[LinkedIn](www.linkedin.com/in/guadalupe-gonzález-santos-38338132b) | [Email](guadagonsa11@gmail.com)
+[LinkedIn]([www.linkedin.com/in/guadalupe-gonzález-santos-38338132b](https://www.linkedin.com/in/guadalupe-gonz%C3%A1lez-santos-38338132b/)) | [Email](mailto:guadagonsa11@gmail.com)
