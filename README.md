@@ -32,8 +32,7 @@ Estoy desarrollando un modelo híbrido que combina **RNNs** (Redes Neuronales Re
 | Proyecto | Tecnologías | Estado |
 | :--- | :--- | :--- |
 | **[Calculadora RPN](enlace)** | C++, Stacks, Data Structures | 🛠️ En proceso |
-| **[Dance Game Prototype](enlace)** | Unity, C# | ✅ Completado (Prácticas) |
-| **[Navegación Social IA](enlace)** | Python, RNN, RGAT | 🎓 TFG |
+| **[Navegación Social IA](https://github.com/guadaUnex/TFG-GuadalupeGonzalezSantos)** | Python, RNN, RGAT | 🎓 TFG |
 
 ---
 
