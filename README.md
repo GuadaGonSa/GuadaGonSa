@@ -1,14 +1,14 @@
 # ¡Hola! Soy Guadalupe González Santos 👋
 ### Ingeniera de Computadores | IA, Ciberseguridad y Desarrollo de Software
 
-Soy estudiante de último año de Ingeniería Informática (Ingeniería de Computadores). Mi enfoque combina el diseño de sistemas eficientes con la inteligencia artificial aplicada a la robótica social y la seguridad.
+Graduada en Ingeniería Informática (Especialidad en Ingeniería de Computadores). Mi enfoque combina el diseño de sistemas eficientes con la inteligencia artificial aplicada a la robótica social y la ciberseguridad.
 
 ---
 
-## 🚀 Proyecto Destacado: Mi TFG
+## 🚀 Proyecto Destacado: TFG
 **Evaluación de Trayectorias en Navegación Social mediante IA**
-Estoy desarrollando un modelo híbrido que combina **RNNs** (Redes Neuronales Recurrentes) y **RGAT** (Relational Graph Attention Networks) para permitir que los robots naveguen de forma humana y socialmente aceptable.
-- **Keywords:** Deep Learning, Social Robotics, Python, PyTorch/TensorFlow, Pytorch Geometric (PyG).
+Desarrollo de una métrica innovadora basada en inteligencia artificial para evaluar de forma cuantitativa si la trayectoria de un robot es socialmente aceptable y humana.
+- **Keywords:** Deep Learning, Social Robotics, Python, PyTorch/TensorFlow, PyTorch Geometric (PyG).
 
 ---
 
@@ -28,11 +28,10 @@ Estoy desarrollando un modelo híbrido que combina **RNNs** (Redes Neuronales Re
 
 ---
 
-## 📂 Proyectos en Desarrollo
+## 📂 Proyectos
 | Proyecto | Tecnologías | Estado |
 | :--- | :--- | :--- |
-| **[Calculadora RPN](enlace)** | C++, Stacks, Data Structures | 🛠️ En proceso |
-| **[Navegación Social IA](https://github.com/guadaUnex/TFG-GuadalupeGonzalezSantos)** | Python, RNN, RGAT | TFG |
+| **[Navegación Social IA](https://github.com/guadaUnex/TFG-GuadalupeGonzalezSantos)** | Python, RNN, RGAT | ✅ Finalizado (TFG) |
 
 ---
 
